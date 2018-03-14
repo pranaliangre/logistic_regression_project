@@ -49,9 +49,3 @@ class TestData_cleaning(TestCase):
                                   type(y_test)))
 
         # Return value tests
-<<<<<<< HEAD
-      
-=======
-       
-   
->>>>>>> 865d1f099603f0fade998d631c8ebf361c00f20f
